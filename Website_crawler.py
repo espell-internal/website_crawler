@@ -19,7 +19,7 @@ from tqdm import tqdm
 START_URL = "https://www.website.domain/"
 DOMAIN = "www.website.domain"
 
-OUTPUT_DIR = Path("federato_crawl")
+OUTPUT_DIR = Path("website_crawl")
 HTML_DIR = OUTPUT_DIR / "html"
 MARKDOWN_DIR = OUTPUT_DIR / "markdown"
 
